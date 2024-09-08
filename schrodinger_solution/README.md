@@ -61,4 +61,4 @@ This project implements a 2D wave equation solver inspired by the Schrödinger e
 The program visualizes the wave equation solution with color-coded wave heights. Interacting with the wave plane by rotating it or applying voltage results in dynamic updates to the wave and its behavior.
 
 ## Futher Work
-handle boudries and inital conditions and physical constants for VLSI realization and scaling
+handle periodic boudries, inital conditions and physical constants for VLSI realization and scaling
